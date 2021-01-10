@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 2px solid mediumslateblue;
+    background-color: greenyellow;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* header */
+/* menu */
+.menu {
+
+}
+
+.menu_ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menu_el {
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 5px;
+    list-style: none;
+}
+
+.menu_el > a {
+    text-decoration: none;
+    font-size: 2em;
+    color: white;
+}
+
+/* Rectangle */
+.rectangle {
+
+}
