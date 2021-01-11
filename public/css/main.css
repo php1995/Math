@@ -1,0 +1,6 @@
+@import "css_blocks/menu.css";
+@import "css_blocks/style.css";
+
+.content {
+    height: 1000px;
+}
